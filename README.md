@@ -1,2 +1,4 @@
 # African_Churches_in_Dallas
 The goal of this project is to construct a user-friendly website specifically catering to African Christians in the United States, making it easy for them to access African churches located in Dallas, Texas.
+This website serves as a centralized platform where users can explore and connect with various African churches in the area.
+Data science plays a crucial role in achieving the objectives of this project. As data scientists, our primary responsibility is to gather and enrich the necessary data about these churches, ensuring that the website provides accurate and comprehensive information to its users. By employing advanced technology and methodologies, we aim to create a seamless experience for African Christians in their search for a spiritual community within the African Church network.
